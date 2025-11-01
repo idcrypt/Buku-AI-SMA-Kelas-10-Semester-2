@@ -1,6 +1,9 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
+# Buku AI SMA Kelas 10 Semester 2 AI di Tanganmu: Dari Teori ke Proyek Nyata dan Masa Depan Teknologi
+
 Aolia Ikhwanudin
+
 Onno W. Purbo
+
 Institut Teknologi Tangerang Selatan (ITTS)
 2025
 
